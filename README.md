@@ -44,9 +44,8 @@
 
 <h2> Let's Connect:</h2>
 
-[<img align="left" alt="Maelle McCallum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/maelle-mccallum/
+- <b>LinkedIn</b>
+  - [Maelle McCallum](https://www.linkedin.com/in/maelle-mccallum/)
 
 <!--
 GitHub Portfolio Template adapted from Josh Madakor, joshmadakor1
