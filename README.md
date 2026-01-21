@@ -4,7 +4,9 @@
 
 - <b>Interactive Prototyping with Figma</b>
   - [Spoons App]()
-  - [Demo Video]()
+  - [Demo Video]()<br>
+  <br>
+  
 - <b>Team Game Development Project in Java</b>
   - [Raccoon Rummage Game]()
   - [Demo Video](https://youtu.be/W_Otazj7o_g)
@@ -13,17 +15,26 @@
 
 - <b>Computer Graphics Assigments in JavaScript</b>
   - [Rasterizing Samples]()
-  - [Rendering Samples]()
+  - [Rendering Samples]()<br>
+  <br>
+  
 - <b>Algorithmic Art in Python</b>
-  - [Randomized Jellyfish]()
+  - [Randomized Jellyfish]()<br>
+  <br>
+  
 - <b>Social Media Branding Projects with Adobe Illustrator</b>
   - [Pixel Pieces]()
-  - [Waxily Gaming]()
+  - [Waxily Gaming]()<br>
+  <br>
+  
 - <b>Graphic Design Projects with Adobe Illustrator</b>
   - [Movie Icons]()
-  - [Personal Branding Diptych]()
+  - [Personal Branding Diptych]()<br>
+  <br>
+  
 - <b>Animation Screencap Study with Sketchbook (iOS)</b>
-  - [Scott Pilgrim Takes Off - Repaint]()
+  - [Scott Pilgrim Takes Off - Repaint]()<br>
+  
 
 <h2>3D Modelling and Design:</h2>
  
