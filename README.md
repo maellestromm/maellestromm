@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1>Hello, I'm Maelle! <br/><a>Student</a>, <a>Programmer</a>, <a>Designer</a></h1>
+
+<h2>Collaborative Projects:</h2>
+
+- <b>Interactive Prototyping with Figma</b>
+  - [Spoons App]()
+  - [Demo Video]()
+- <b>Team Game Development Project in Java</b>
+  - [Raccoon Rummage Game]()
+  - [Demo Video](https://youtu.be/W_Otazj7o_g)
+ 
+<h2>Computer Graphics, Digital Art, and Graphic Design:</h2>
+
+- <b>Computer Graphics Assigments in JavaScript</b>
+  - [Rasterizing Samples]()
+  - [Rendering Samples]()
+- <b>Algorithmic Art in Python</b>
+  - [Randomized Jellyfish]()
+- <b>Social Media Branding Projects with Adobe Illustrator</b>
+  - [Pixel Pieces]()
+  - [Waxily Gaming]()
+- <b>Graphic Design Projects with Adobe Illustrator</b>
+  - [Movie Icons]()
+  - [Personal Branding Diptych]()
+- <b>Animation Screencap Study with Sketchbook (iOS)</b>
+  - [Scott Pilgrim Takes Off - Repaint]()
+
+<h2>3D Modelling and Design:</h2>
+ 
+- <b>3D Modelling and Printing Project</b>
+  - [Modelling Demo Video](https://youtu.be/MSjpq9lIHRY)
+  - [Star Charms]()
+
+<h2> Let's Connect:</h2>
+
+[<img align="left" alt="Maelle McCallum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/maelle-mccallum/
 
 <!--
-**maellestromm/maellestromm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+GitHub Portfolio Template adapted from Josh Madakor, joshmadakor1
 -->
