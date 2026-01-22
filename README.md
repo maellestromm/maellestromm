@@ -1,5 +1,4 @@
 # Hello, I'm Maelle!
-<h1>Student, Programmer, Designer</h1>
 
 <h2>Collaborative Projects</h2>
 
