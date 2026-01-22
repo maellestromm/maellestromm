@@ -27,10 +27,7 @@
 
 - <b>Computer Graphics Assigments in JavaScript</b>
   - [Rasterizing and Rendering Samples]()
-<img alt="Image" src="https://github.com/user-attachments/assets/a5555952-c21a-4399-b856-80524747cb36" />
-<img alt="Image" src="https://github.com/user-attachments/assets/66b48926-610f-4121-8362-e940266c59c8" />
-<img alt="Image" src="https://github.com/user-attachments/assets/4bc86ea6-e7ce-4fcd-bb39-0858d267d1ca" />
-<img alt="Image" src="https://github.com/user-attachments/assets/4ae89447-c1bf-4767-8a79-fa59db769d90" /><br>
+<img alt="Image" src="https://github.com/user-attachments/assets/a5555952-c21a-4399-b856-80524747cb36"></img> <img alt="Image" src="https://github.com/user-attachments/assets/66b48926-610f-4121-8362-e940266c59c8"></img> <img alt="Image" src="https://github.com/user-attachments/assets/4bc86ea6-e7ce-4fcd-bb39-0858d267d1ca"></img><img alt="Image" src="https://github.com/user-attachments/assets/4ae89447-c1bf-4767-8a79-fa59db769d90"></img> <br>
   <br>
   
 - <b>Algorithmic Art in Python</b>
