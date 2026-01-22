@@ -1,4 +1,5 @@
-<h1>Hello, I'm Maelle! <br/><a>Student</a>, <a>Programmer</a>, <a>Designer</a></h1>
+# Hello, I'm Maelle!
+<h1>Student, Programmer, Designer</h1>
 
 <h2>Collaborative Projects</h2>
 
