@@ -1,21 +1,32 @@
 <h1>Hello, I'm Maelle! <br/><a>Student</a>, <a>Programmer</a>, <a>Designer</a></h1>
 
-<h2>Collaborative Projects:</h2>
+<h2>Collaborative Projects</h2>
 
 - <b>Interactive Prototyping with Figma</b>
-  - [Spoons App]()
-  - [Demo Video]()<br>
+  - [Spoons App]()<br>
   <br>
   
 - <b>Team Game Development Project in Java</b>
   - [Raccoon Rummage Game]()
-  - [Demo Video](https://youtu.be/W_Otazj7o_g)
+
+<h2>Data Science and Algorithms Projects</h2>
+
+- <b>Roblox Game Statistics Analysis in Python</b>
+  - [Crop Popularity]()<br>
+  <br>
+
+- <b>Evaluating Algorithm Implementations in C++</b>
+  - [Matrix Multiplication Performance]()
+
+<h2>3D Modelling and Design</h2>
  
-<h2>Computer Graphics, Digital Art, and Graphic Design:</h2>
+- <b>3D Modelling and Printing with Fusion360 and UltiMaker Cura</b>
+  - [Star Charms]()
+ 
+<h2>Computer Graphics, Digital Art, and Graphic Design</h2>
 
 - <b>Computer Graphics Assigments in JavaScript</b>
-  - [Rasterizing Samples]()
-  - [Rendering Samples]()<br>
+  - [Rasterizing and Rendering Samples]()<br>
   <br>
   
 - <b>Algorithmic Art in Python</b>
@@ -32,15 +43,9 @@
   - [Personal Branding Diptych]()<br>
   <br>
   
-- <b>Animation Screencap Study with Sketchbook (iOS)</b>
-  - [Scott Pilgrim Takes Off - Repaint]()<br>
-  
-
-<h2>3D Modelling and Design:</h2>
- 
-- <b>3D Modelling and Printing Project</b>
-  - [Modelling Demo Video](https://youtu.be/MSjpq9lIHRY)
-  - [Star Charms]()
+- <b>Digital Art with Sketchbook (iOS)</b>
+  - [Animation Screencap Study - Scott Pilgrim Takes Off]()
+  - [Landscapes]()
 
 <h2> Let's Connect:</h2>
 
