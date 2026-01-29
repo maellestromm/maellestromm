@@ -3,7 +3,8 @@
 <h2>Collaborative Projects</h2>
 
 - <b>Interactive Prototyping with Figma</b>
-  - [Spoons App]()<br>
+  - [Spoons App](https://github.com/maellestromm/Spoons-App/blob/21fe68f3a713ac6c958b86fdd9332fabeaa2f413/README.md)<br>
+<img alt="Logging 1/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot5.png" width="20%"></img> <img alt="Logging 2/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot6.png" width="10%"></img> <img alt="Logging 3/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot7.png" width="10%"></img> <img alt="Logging 4/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot8.png" width="10%"></img> <br>
   <br>
   
 - <b>Team Game Development Project in Java</b>
@@ -26,7 +27,7 @@
 <h2>Computer Graphics, Digital Art, and Graphic Design</h2>
 
 - <b>Computer Graphics Assigments in JavaScript</b>
-  - [Rasterizing and Rendering Samples](https://github.com/maellestromm/Art-and-Design/tree/main/JavaScript)<br>
+  - [Rasterizing and Rendering Samples](https://github.com/maellestromm/Art-and-Design/blob/f3ecec33d76fce9f762836895a04858236d5093c/JavaScript/README.md)<br>
 <img alt="Rasterizing Practice" src="https://github.com/maellestromm/Art-and-Design/blob/ba7edd02c48ff830ab6dd4f94aaf3649d6d37b08/JavaScript/RasterizingPractice.png" width="20%"></img> <img alt="Rasterizing Play: Seascape" src="https://github.com/maellestromm/Art-and-Design/blob/ba7edd02c48ff830ab6dd4f94aaf3649d6d37b08/JavaScript/Rasterizing_Seascape.png" width="20%"></img> <img alt="Rendering Practice" src="https://github.com/maellestromm/Art-and-Design/blob/ba7edd02c48ff830ab6dd4f94aaf3649d6d37b08/JavaScript/RenderingPractice.png" width="20%"></img> <img alt="Rendering Play: Rainbow Worm" src="https://github.com/maellestromm/Art-and-Design/blob/ba7edd02c48ff830ab6dd4f94aaf3649d6d37b08/JavaScript/Rendering_RainbowWorm.png" width="20%"></img> <br>
   <br>
   
@@ -54,5 +55,6 @@
   - [Maelle McCallum](https://www.linkedin.com/in/maelle-mccallum/)
 
 <!--
-GitHub Portfolio Template adapted from Josh Madakor, joshmadakor1
+GitHub Portfolio Template adapted from Josh Madakor:
+https://github.com/joshmadakor1/joshmadakor1/blob/main/README.md
 -->
