@@ -4,7 +4,7 @@
 
 - <b>Interactive Prototyping with Figma</b>
   - [Spoons App](https://github.com/maellestromm/Spoons-App/blob/21fe68f3a713ac6c958b86fdd9332fabeaa2f413/README.md)<br>
-<img alt="Logging 1/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot5.png" width="20%"></img> <img alt="Logging 2/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot6.png" width="10%"></img> <img alt="Logging 3/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot7.png" width="10%"></img> <img alt="Logging 4/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot8.png" width="10%"></img> <br>
+<img alt="Logging 1/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot5.png" width="10%"></img> <img alt="Logging 2/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot6.png" width="10%"></img> <img alt="Logging 3/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot7.png" width="10%"></img> <img alt="Logging 4/4" src="https://github.com/maellestromm/Spoons-App/blob/784fdc2eab68d76b8f6e5ce1f4d097b6af1824dd/SpoonsScreenshot8.png" width="10%"></img> <br>
   <br>
   
 - <b>Team Game Development Project in Java</b>
