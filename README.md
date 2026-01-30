@@ -8,7 +8,7 @@
   <br>
   
 - <b>Team Game Development Project in Java</b>
-  - [Raccoon Rummage Game](https://github.com/maellestromm/Raccoon-Rummage/blob/b12cfde8c4ae2ed8c1aa5146a2977f6d4f45a82e/README.md)<br>
+  - [Raccoon Rummage Game](https://github.com/maellestromm/Raccoon-Rummage/blob/1214ba499d035c38162083c33d34f0a39e9f02e9/README.md)<br>
 <img alt="Raccoon Menu" src="https://github.com/maellestromm/Raccoon-Rummage/blob/312f228d5789f604271dee04299cd099526767c3/Screens/MenuScreen.png" width="30%"></img> <img alt="Tutorial" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/TutorialPanel.png" width="30%"></img> <img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="30%"></img> <br>
 
 <h2>Data Science and Algorithms Projects</h2>
