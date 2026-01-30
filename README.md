@@ -14,7 +14,7 @@
 <h2>Data Science and ML Project</h2>
 
 - <b>Roblox Game Statistics Analysis in Python</b>
-  - [Crop Popularity](https://github.com/maellestromm/garden-analysis/blob/9f30603c1adc53f7a09d908c8f454719bd1e0b3c/README.md)<br>
+  - [Crop Popularity](https://github.com/maellestromm/garden-analysis/blob/6441e8f1c7a6ef389613bfd36c2149961a85d5b7/README.md)<br>
   <br>
 
 <h2>3D Modelling and Design</h2>
