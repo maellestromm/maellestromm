@@ -11,14 +11,11 @@
   - [Raccoon Rummage Game](https://github.com/maellestromm/Raccoon-Rummage/blob/1214ba499d035c38162083c33d34f0a39e9f02e9/README.md)<br>
 <img alt="Raccoon Menu" src="https://github.com/maellestromm/Raccoon-Rummage/blob/312f228d5789f604271dee04299cd099526767c3/Screens/MenuScreen.png" width="30%"></img> <img alt="Tutorial" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/TutorialPanel.png" width="30%"></img> <img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="30%"></img> <br>
 
-<h2>Data Science and Algorithms Projects</h2>
+<h2>Data Science and ML Project</h2>
 
 - <b>Roblox Game Statistics Analysis in Python</b>
-  - [Crop Popularity]()<br>
+  - [Crop Popularity](https://github.com/maellestromm/garden-analysis/blob/9f30603c1adc53f7a09d908c8f454719bd1e0b3c/README.md)<br>
   <br>
-
-- <b>Evaluating Algorithm Implementations in C++</b>
-  - [Matrix Multiplication Performance]()
 
 <h2>3D Modelling and Design</h2>
  
