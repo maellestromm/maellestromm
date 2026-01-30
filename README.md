@@ -36,7 +36,8 @@
   <br>
   
 - <b>Algorithmic Art in Python</b>
-  - [Randomized Jellyfish]()<br>
+  - [Randomized Jellyfish](https://github.com/maellestromm/Art-and-Design/blob/9dd0bffcb2d8c6ec95478dc8636373ad7938add4/Python/README.md)<br>
+<img alt="Jelly 1" src="https://github.com/maellestromm/Art-and-Design/blob/4264853ae1c2486ed6b4d8e739ee22808a064f43/Python/Jellyfish1.png" width="20%"></img> <img alt="Jelly 2" src="https://github.com/maellestromm/Art-and-Design/blob/4264853ae1c2486ed6b4d8e739ee22808a064f43/Python/Jellyfish2.png" width="20%"></img> <img alt="Jelly 3" src="https://github.com/maellestromm/Art-and-Design/blob/4264853ae1c2486ed6b4d8e739ee22808a064f43/Python/Jellyfish3.png" width="20%"></img> <br>
   <br>
   
 - <b>Social Media Branding Projects with Adobe Illustrator</b>
