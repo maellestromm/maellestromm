@@ -27,7 +27,7 @@
 
 - <b>Visual Computing Assignment with MATLAB</b>
   - [Panorama Generation](https://github.com/maellestromm/Art-and-Design/blob/c4ce48dc019870e4da5a74132aad6540b590eccb/MATLAB/README.md)<br>
-<img alt="Img 1" src="https://github.com/maellestromm/Art-and-Design/blob/cc89452570f3c651adadefa16217f470f6fbb0f4/MATLAB/IllustratedEx/S2-im1%20copy.png" width="20%"></img> <img alt="Img 1 FAST" src="https://github.com/maellestromm/Art-and-Design/blob/cc89452570f3c651adadefa16217f470f6fbb0f4/MATLAB/IllustratedEx/S2-fast%20copy.png" width="20%"></img> <img alt="Img 1 FAST match" src="https://github.com/maellestromm/Art-and-Design/blob/c4ce48dc019870e4da5a74132aad6540b590eccb/MATLAB/Assn2Report/S2-fastMatch.png" width="60%"></img> <br>
+<img alt="Img 1" src="https://github.com/maellestromm/Art-and-Design/blob/cc89452570f3c651adadefa16217f470f6fbb0f4/MATLAB/IllustratedEx/S2-im1%20copy.png" width="20%"></img> <img alt="Img 1 FAST" src="https://github.com/maellestromm/Art-and-Design/blob/cc89452570f3c651adadefa16217f470f6fbb0f4/MATLAB/IllustratedEx/S2-fast%20copy.png" width="20%"></img> <img alt="Img 1 FAST match" src="https://github.com/maellestromm/Art-and-Design/blob/c4ce48dc019870e4da5a74132aad6540b590eccb/MATLAB/Assn2Report/S2-fastMatch.png" width="50%"></img> <br>
   <br>
 
 - <b>Computer Graphics Assigments in JavaScript</b>
